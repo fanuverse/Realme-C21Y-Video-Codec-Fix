@@ -1,4 +1,4 @@
-# Realme C21Y Video Codec, Color and Touch WakeFix
+# Realme C21Y Video Codec, Color and Touch Wake Fix
 
 [![Device](https://img.shields.io/badge/Device-Realme%20C21Y%20(RMX3261%2FRMX3263)-blue.svg)](#)
 [![SoC](https://img.shields.io/badge/SoC-Unisoc%20T610%20%2F%20UMS512-orange.svg)](#)
